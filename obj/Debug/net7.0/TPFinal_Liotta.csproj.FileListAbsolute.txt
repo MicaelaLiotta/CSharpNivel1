@@ -1,0 +1,15 @@
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\bin\Debug\net7.0\TPFinal_Liotta.exe
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\bin\Debug\net7.0\TPFinal_Liotta.deps.json
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\bin\Debug\net7.0\TPFinal_Liotta.runtimeconfig.json
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\bin\Debug\net7.0\TPFinal_Liotta.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\bin\Debug\net7.0\TPFinal_Liotta.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.csproj.AssemblyReference.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.AssemblyInfoInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.AssemblyInfo.cs
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.csproj.CoreCompileInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\refint\TPFinal_Liotta.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\TPFinal_Liotta.genruntimeconfig.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\TPFinal_Liotta\obj\Debug\net7.0\ref\TPFinal_Liotta.dll
